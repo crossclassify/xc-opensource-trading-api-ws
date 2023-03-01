@@ -31,7 +31,7 @@ GOOGLE_PROJECT_ID = 'YOUR-GOOGLE-PROJECT-ID'
 ws_url = f"ws://127.0.0.1:9000"
 FINNHUB_API_KEY = "YOUR-FINNHUB-KEY"
 t_sleep = 15
-t_diff = 20
+t_diff = 21
 
 
 class TradeAppServerProtocol(WebSocketServerProtocol):
