@@ -1,7 +1,7 @@
 # xc-opensource-trading-api-ws
 CrossClassify open source trading app backend API (WebSocket)
 
-![Random Name Generator Logo](https://example.com/images/logo.png)
+![xc-opensource-trading-api-ws Logo](https://www.crossclassify.com/static/media/app-logo.5f201a1bce0dda55e1e82e3d3d78c445.svg)
 
 xc opensource trading api is a web socket server for xc trading app written in python using autobahn.
 
